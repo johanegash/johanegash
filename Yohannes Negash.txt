@@ -1,10 +1,16 @@
 //Yohannes Negash
 
-I tried to worked in such like this
+//I tried to worked in such like this
 
-Kindly It was difficult for me to open it the target file, so I tried to look at different websites And I tried to do it according to what I understood --->
+//Kindly It was difficult for me to open it the target file, so I tried to look at different websites And I tried to do it according to what I understood --->
 
-#include <pcap.h> #include <stdio.h> #include <string.h> #include <dirent.h> #include <sys/stat.h> #include <unistd.h> #include <json.h>
+#include <pcap.h> 
+#include <stdio.h> 
+#include <string.h> 
+#include <dirent.h> 
+#include <sys/stat.h> 
+#include <unistd.h> 
+#include <json.h>
 
 #define SMB_HEADER_SIZE 32
 
